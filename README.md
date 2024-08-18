@@ -10,7 +10,7 @@ It also demonstrates my attention to detail. Give me a design and I can implemen
 
 👉 Here is the [original](https://www.chase.com/) (there may be different variations of the homepage)
 
-⬇️ And down below is a snapshot of my project (I won't deploy for obvious reasons haha ...)
+⬇️ And down below is a snapshot of my project (I won't deploy for risk of getting in trouble 👮‍♀️)
 
 ## Built With:
 - Plain HTML
